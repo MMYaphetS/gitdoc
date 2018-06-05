@@ -1,4 +1,4 @@
 # gitdoc
-git explanation branch\n
-remote changes\n
+git explanation branch
+remote changes
 modify in repo
